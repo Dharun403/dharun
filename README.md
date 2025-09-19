@@ -221,12 +221,12 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>dharun</b> in the Department of CA and IT at KASC specializes in software development and data structures.<br>I has over 15 years of teaching experience and believes in creating a dynamic learning environment that encourages problem-solving and hands-on coding practice.</p>
+  <p>I'm a <b>dharun</b> in the Department of BSC CS at KASC specializes in software development and data structures.<br>I has over 2 years of learning experience and believes in creating a dynamic learning environment that encourages problem-solving and hands-on coding practice.</p>
 </section>
 
 <section id="education">
   <h2>Education</h2>
-  <p>B.Sc Mathematics in Madras University <br>MCA in Anna University<br>B.Ed in TTEducation University</p>
+  <p>B.Sc computer science in coimbatore bharathiyar University <br>MCA in Bharathiyar University<br>B.Ed in TTEducation University</p>
 </section>
 
 <section id="skills">
@@ -259,12 +259,12 @@
 <section id="contact">
   <h2>Contact</h2>
   <p>Email: <a href="dharun.cs24@kascsahy.ac.in">dharun.cs24@kascsahy.ac.in</a></p>
-  <p>Phone: +91-9865092092</p>
-  <p>Location: A1hani, Gobi, India</p>
+  <p>Phone: +91-7418270459</p>
+  <p>Location: Erangatoor, sathyamangalam, India</p>
   <div style="margin-top: 1rem;">
 	<a href="https://linkedin.com/in/dharun" target="_blank">LinkedIn</a> |
 	<a href="https://github.com/dharun" target="_blank">GitHub</a> |
-	<a href="https://instagram.com/dharun2008" target="_blank">Instagram</a>
+	<a href="https://instagram.com/dharun_287" target="_blank">Instagram</a>
   </div>
 </section>
 
@@ -293,7 +293,7 @@
 	<li><b>Faculty</b> – CCI Computer Center (2003 - 2007)<br>Handled Ms-Office, Java, C,C++, Oracle, VB</li>
 	<li><b>student</b> MPNMJ Engg. College (2011 - 2013)<br>Department of MCA </li>
 	<li><b>Computer student
-</b> VVMHSS (2016 - 2023)<br>Worked on Under Bharathidhasan University</li>
+</b> VVMHSS (2024 - 2027)<br>Worked on Under Bharathiyar University</li>
   </ul>
 </section>
 
